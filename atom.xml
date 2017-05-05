@@ -1600,7 +1600,7 @@ g：表示全局变量，例如：gUserName，gLoginTime；
 <tr>
 <td style="text-align:left">@author</td>
 <td>@author 作者 邮箱</td>
-<td>@author Luuman <a href="&#x6d;&#97;&#105;&#x6c;&#116;&#111;&#58;&#x6c;&#x75;&#x75;&#x6d;&#x61;&#110;&#x73;&#64;&#113;&#x71;&#46;&#99;&#x6f;&#x6d;">&#x6c;&#x75;&#x75;&#x6d;&#x61;&#110;&#x73;&#64;&#113;&#x71;&#46;&#99;&#x6f;&#x6d;</a></td>
+<td>@author Luuman <a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#108;&#117;&#117;&#x6d;&#97;&#110;&#x73;&#64;&#x71;&#113;&#x2e;&#99;&#x6f;&#109;">&#108;&#117;&#117;&#x6d;&#97;&#110;&#x73;&#64;&#x71;&#113;&#x2e;&#99;&#x6f;&#109;</a></td>
 </tr>
 <tr>
 <td style="text-align:left">@brief</td>
@@ -1654,53 +1654,6 @@ g：表示全局变量，例如：gUserName，gLoginTime；
     
     
       <category term="Javascript" scheme="http://luuman.github.io/tags/Javascript/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>前端开发代码规范</title>
-    <link href="http://luuman.github.io/2016/12/31/Skill/norm/normdev/"/>
-    <id>http://luuman.github.io/2016/12/31/Skill/norm/normdev/</id>
-    <published>2016-12-31T10:29:00.000Z</published>
-    <updated>2017-03-20T03:04:26.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>　　<strong>规范：</strong>你是否常常碰到以下问题：你总是看不懂他写的代码，或者读起来很吃力；你需要改他的代码却无从下手，或总是要去问他这里是什么改了会不会影响其他代码；你和他一起开发一个产品，你总是怕代码和他有冲突或互相影响；你的代码在多次维护任务之后变得越来越臃肿，越来越难以维护。解决以上问题只需一种方法——读我们的规范！<br><a id="more"></a></p>
-<h2 id="开发准备"><a href="#开发准备" class="headerlink" title="开发准备"></a>开发准备</h2><h3 id="了解产品和设计"><a href="#了解产品和设计" class="headerlink" title="了解产品和设计"></a>了解产品和设计</h3><ol>
-<li>参加需求、交互、视觉会议，了解产品设计和项目成员。</li>
-<li>了解产品面向的设备和平台。</li>
-<li>了解产品对兼容性的要求以及是否采用响应式设计等。</li>
-<li>了解产品要使用的技术（WEB技术、桌面技术、APP技术、模板语言、混合模式等）。</li>
-</ol>
-<h3 id="提出疑问和见解"><a href="#提出疑问和见解" class="headerlink" title="提出疑问和见解"></a>提出疑问和见解</h3><ol>
-<li>在交互或视觉会议中结合技术要求，提出疑问和见解。</li>
-<li>提出可能存在的问题（技术实现问题、性能问题等），协商解决方案（如优雅退化）并达成共识。</li>
-<li>提出已有新技术可能在产品中的应用场景，协助产品创新。</li>
-</ol>
-<h3 id="技术调研和培训"><a href="#技术调研和培训" class="headerlink" title="技术调研和培训"></a>技术调研和培训</h3><ol>
-<li>是否需要技术调研，提出可能存在的风险。</li>
-<li>进行技术调研，产出技术demo，展示demo，反馈调研结果。</li>
-<li>技术调研的内容可以先咨询经验丰富的前端工程师或前端技术组。</li>
-<li>经验不足或新入职员工，可提出培训申请。</li>
-<li>你可以把难以解决的技术问题提交给NEC，NEC将帮助你解决问题。</li>
-<li>了解NEC，特别是代码规范和技术demo。</li>
-</ol>
-<h3 id="预算人力和时间"><a href="#预算人力和时间" class="headerlink" title="预算人力和时间"></a>预算人力和时间</h3><ol>
-<li>根据项目时间要求及工作量，预算人力和时间。</li>
-<li>预算开发周期和阶段性产出。</li>
-<li>提醒需求方在项目管理平台中创建项目并加入项目成员，创建SVN并设置成员权限。</li>
-</ol>
-<h2 id="开发准备-1"><a href="#开发准备-1" class="headerlink" title="开发准备"></a>开发准备</h2><h3 id="CSS文件的分类"><a href="#CSS文件的分类" class="headerlink" title="CSS文件的分类"></a>CSS文件的分类</h3>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;　　&lt;strong&gt;规范：&lt;/strong&gt;你是否常常碰到以下问题：你总是看不懂他写的代码，或者读起来很吃力；你需要改他的代码却无从下手，或总是要去问他这里是什么改了会不会影响其他代码；你和他一起开发一个产品，你总是怕代码和他有冲突或互相影响；你的代码在多次维护任务之后变得越来越臃肿，越来越难以维护。解决以上问题只需一种方法——读我们的规范！&lt;br&gt;
-    
-    </summary>
-    
-      <category term="Norm" scheme="http://luuman.github.io/categories/Norm/"/>
-    
-    
-      <category term="Development" scheme="http://luuman.github.io/tags/Development/"/>
     
   </entry>
   
@@ -2368,6 +2321,53 @@ class=&quot;xxx xxx-yyy&quot;。
     
     
       <category term="CSS" scheme="http://luuman.github.io/tags/CSS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端开发代码规范</title>
+    <link href="http://luuman.github.io/2016/12/31/Skill/norm/normdev/"/>
+    <id>http://luuman.github.io/2016/12/31/Skill/norm/normdev/</id>
+    <published>2016-12-31T10:29:00.000Z</published>
+    <updated>2017-03-20T03:04:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>　　<strong>规范：</strong>你是否常常碰到以下问题：你总是看不懂他写的代码，或者读起来很吃力；你需要改他的代码却无从下手，或总是要去问他这里是什么改了会不会影响其他代码；你和他一起开发一个产品，你总是怕代码和他有冲突或互相影响；你的代码在多次维护任务之后变得越来越臃肿，越来越难以维护。解决以上问题只需一种方法——读我们的规范！<br><a id="more"></a></p>
+<h2 id="开发准备"><a href="#开发准备" class="headerlink" title="开发准备"></a>开发准备</h2><h3 id="了解产品和设计"><a href="#了解产品和设计" class="headerlink" title="了解产品和设计"></a>了解产品和设计</h3><ol>
+<li>参加需求、交互、视觉会议，了解产品设计和项目成员。</li>
+<li>了解产品面向的设备和平台。</li>
+<li>了解产品对兼容性的要求以及是否采用响应式设计等。</li>
+<li>了解产品要使用的技术（WEB技术、桌面技术、APP技术、模板语言、混合模式等）。</li>
+</ol>
+<h3 id="提出疑问和见解"><a href="#提出疑问和见解" class="headerlink" title="提出疑问和见解"></a>提出疑问和见解</h3><ol>
+<li>在交互或视觉会议中结合技术要求，提出疑问和见解。</li>
+<li>提出可能存在的问题（技术实现问题、性能问题等），协商解决方案（如优雅退化）并达成共识。</li>
+<li>提出已有新技术可能在产品中的应用场景，协助产品创新。</li>
+</ol>
+<h3 id="技术调研和培训"><a href="#技术调研和培训" class="headerlink" title="技术调研和培训"></a>技术调研和培训</h3><ol>
+<li>是否需要技术调研，提出可能存在的风险。</li>
+<li>进行技术调研，产出技术demo，展示demo，反馈调研结果。</li>
+<li>技术调研的内容可以先咨询经验丰富的前端工程师或前端技术组。</li>
+<li>经验不足或新入职员工，可提出培训申请。</li>
+<li>你可以把难以解决的技术问题提交给NEC，NEC将帮助你解决问题。</li>
+<li>了解NEC，特别是代码规范和技术demo。</li>
+</ol>
+<h3 id="预算人力和时间"><a href="#预算人力和时间" class="headerlink" title="预算人力和时间"></a>预算人力和时间</h3><ol>
+<li>根据项目时间要求及工作量，预算人力和时间。</li>
+<li>预算开发周期和阶段性产出。</li>
+<li>提醒需求方在项目管理平台中创建项目并加入项目成员，创建SVN并设置成员权限。</li>
+</ol>
+<h2 id="开发准备-1"><a href="#开发准备-1" class="headerlink" title="开发准备"></a>开发准备</h2><h3 id="CSS文件的分类"><a href="#CSS文件的分类" class="headerlink" title="CSS文件的分类"></a>CSS文件的分类</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;　　&lt;strong&gt;规范：&lt;/strong&gt;你是否常常碰到以下问题：你总是看不懂他写的代码，或者读起来很吃力；你需要改他的代码却无从下手，或总是要去问他这里是什么改了会不会影响其他代码；你和他一起开发一个产品，你总是怕代码和他有冲突或互相影响；你的代码在多次维护任务之后变得越来越臃肿，越来越难以维护。解决以上问题只需一种方法——读我们的规范！&lt;br&gt;
+    
+    </summary>
+    
+      <category term="Norm" scheme="http://luuman.github.io/categories/Norm/"/>
+    
+    
+      <category term="Development" scheme="http://luuman.github.io/tags/Development/"/>
     
   </entry>
   
