@@ -2532,7 +2532,7 @@ color
 }
 .gitment-root-container,
 .gitment-header-container {
-  margin: 19px 0;
+  margin: 19px 10px;
 }
 .gitment-header-like-btn {
   cursor: pointer;
@@ -2606,7 +2606,8 @@ a.gitment-header-issue-link:hover {
 }
 .gitment-editor-avatar .gitment-github-icon {
   fill: #fff;
-  background-color: #3f3f3f;
+  background-color: #fff;
+  border-radius: 50%;
 }
 .gitment-comment-main {
   position: relative;
@@ -2684,7 +2685,7 @@ a.gitment-comment-name:visited {
   padding: 11px 12px;
   font-size: 14px;
   line-height: 20px;
-  color: #666;
+  color: #4094c7;
   text-decoration: none;
   background-color: transparent;
   border-width: 0 1px;
@@ -2718,7 +2719,7 @@ a.gitment-editor-login-link:visited {
   color: #2196f3;
 }
 a.gitment-editor-logout-link {
-  color: #666;
+  color: #4094c7;
 }
 a.gitment-editor-logout-link:visited {
   color: #666;
@@ -2879,10 +2880,10 @@ a.gitment-editor-footer-tip:hover {
   appearance: none;
 }
 .gitment-editor-submit:hover {
-  background-color: #00acc1;
+  background-color: #4094c7;
 }
 .gitment-comments-init-btn:hover {
-  background-color: #00acc1;
+  background-color: #4094c7;
 }
 .gitment-comments-init-btn:disabled {
   color: rgba(255,255,255,0.75);
